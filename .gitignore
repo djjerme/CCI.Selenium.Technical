@@ -1,0 +1,17 @@
+# Auto-generated files
+*.log
+*.vspscc
+*.vssscc
+
+# Build results
+*.dll
+*.exe
+*.app
+*.pbb
+*.tmp
+*.dll
+/obj
+/bin
+/.vs
+/Debug
+.DS_Store
